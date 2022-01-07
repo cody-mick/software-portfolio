@@ -16,4 +16,4 @@ This program is written in the Python language.
 As this is a "Hello World" program, there was no external help needed from other websites.
 
 Click on the link below to see the program in action!
-<a href="https://www.youtube.com/watch?v=AGYirajmoF8">Hello World Program</a>
+<a href="https://www.youtube.com/watch?v=AGYirajmoF8" target=blank>Hello World Program</a>
